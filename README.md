@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.gif" alt="banner" width="100%"/>
-</p>
-
 # 👋 Hi, I'm Amna Pervez
 
 🎓 **BS Computer Science** student at Fatima Jinnah Women University  
