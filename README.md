@@ -53,8 +53,8 @@ At the same time, I'm curious about **AI/ML** and how machines learn from data, 
 
 | 📁 | Project | Tech Stack |
 |----|---------|------------|
+| 🔄 | Parallel Data Processing ETL Pipeline | Data Processing / Systems |
 | 📚 | SmartLIB – Library Management System | PHP, MySQL |
-| 🔄 | Distributed & Parallel ETL Pipeline | Data Processing |
 | 🤖 | Robot Puzzle Solver – Pathfinding Visualizer | Python, Tkinter |
 | 🌐 | Portfolio Website | HTML, CSS, JavaScript |
 
