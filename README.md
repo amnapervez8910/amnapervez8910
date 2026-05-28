@@ -1,23 +1,24 @@
 # 👋 Hi, I'm Amna Pervez
 
-🎓 BS Computer Science student at Fatima Jinnah Women University  
-💻 Passionate about **Web Development** & **Artificial Intelligence**  
+🎓 **BS Computer Science** student at Fatima Jinnah Women University  
+💻 Interested in **Web Development** & **Artificial Intelligence**  
 🌱 Learning, building, and improving step by step  
 
 ---
 
 ## 🚀 About Me
 
-I'm a Computer Science student who enjoys creating clean, functional, and user-friendly web applications.  
+I'm a CS student who enjoys creating clean, functional, and user-friendly web applications.  
 I love turning ideas into real-world projects that solve problems.
 
-Currently, I'm also exploring **AI/ML**, especially how machines understand data, language, and patterns.
+At the same time, I'm curious about **AI/ML** – how machines understand data, language, and patterns.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -28,6 +29,7 @@ Currently, I'm also exploring **AI/ML**, especially how machines understand data
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### 🧰 Tools & Platforms
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -37,21 +39,22 @@ Currently, I'm also exploring **AI/ML**, especially how machines understand data
 
 ---
 
-## 🌱 Learning Journey
+## 🌱 Currently Learning
 
-- 🌱 Consistently improving my coding skills  
-- 💡 Building real-world projects step by step  
-- 🚀 Exploring Web Development & AI  
-- 🤝 Open to learning new technologies  
+- ⚛️ **React.js** – making websites interactive
+- 🐳 **Docker** – understanding containers
+- ☁️ **Cloud (Azure)** – deploying things online
 
 ---
 
 ## 📌 Projects
 
-- 🏫 **SmartLIB** – Library Management System (PHP, MySQL)  
-- 🎙️ **AI Navigation System** – Voice-based campus guide (Python, NLP)  
-- 🗳️ **Online Voting System** – Java Swing Desktop App (Java, Oracle)  
-- 🤖 **Robot Puzzle Solver** – Pathfinding visualizer (Python, Tkinter)  
+- 📚 **SmartLIB** – Library Management System (PHP, MySQL)
+- 🔄 **Distributed & Parallel ETL Pipeline** – Data processing pipeline
+- 🤖 **Robot Puzzle Solver** – Pathfinding visualizer (Python, Tkinter)
+- 🚦 **Traffic Light Controller** – FSM-based (Verilog, ModelSim)
+
+👉 [More on GitHub →](https://github.com/amnapervez8910?tab=repositories)
 
 ---
 
@@ -62,3 +65,7 @@ Currently, I'm also exploring **AI/ML**, especially how machines understand data
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amna-pervez-1b2078389)
 
 ---
+
+<p align="center">
+✨ Building one small step at a time 🌱 ✨
+</p>
