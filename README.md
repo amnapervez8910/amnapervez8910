@@ -1,19 +1,28 @@
-<h1 align="center">✨ Amna Pervez ✨</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&height=50&lines=CS+Student;Web+Developer;AI+Enthusiast;Lifelong+Learner" />
-</p>
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   █████╗ ███╗   ███╗███╗   ██╗ █████╗     ██████╗ ███████╗██████╗ ██╗   ██╗███████╗███████╗
+│  ██╔══██╗████╗ ████║████╗  ██║██╔══██╗    ██╔══██╗██╔════╝██╔══██╗██║   ██║██╔════╝╚══███╔╝
+│  ███████║██╔████╔██║██╔██╗ ██║███████║    ██████╔╝█████╗  ██████╔╝██║   ██║█████╗    ███╔╝ 
+│  ██╔══██║██║╚██╔╝██║██║╚██╗██║██╔══██║    ██╔══██╗██╔══╝  ██╔══██╗╚██╗ ██╔╝██╔══╝   ███╔╝  
+│  ██║  ██║██║ ╚═╝ ██║██║ ╚████║██║  ██║    ██████╔╝███████╗██║  ██║ ╚████╔╝ ███████╗███████╗
+│  ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝
+│                                                                 │
+│                          Amna Pervez                            │
+│                   CS Student | Web Developer                    │
+│                     AI Enthusiast 🤖                             │
+└─────────────────────────────────────────────────────────────────┘
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 BS Computer Science @ **Fatima Jinnah Women University**
-- 💻 I build **websites** and explore **AI**
-- 🌱 Currently learning: **React.js, Docker & Cloud**
-- 🤖 Love experimenting with **AI & NLP**
-- 🌐 My work: [Portfolio](https://amnapervez8910.github.io/amna-pervez-portfolio/)
-- 📫 Reach me: **amnapervez8910@gmail.com**
+I'm a **CS student** at Fatima Jinnah Women University.  
+I enjoy **building websites** and I'm **fascinated by AI**.  
+
+🔹 Currently learning: **React.js, Docker & Cloud**  
+🔹 Exploring: **AI, NLP, Computer Vision** 🤖  
+🔹 Check out my work: [Portfolio](https://amnapervez8910.github.io/amna-pervez-portfolio/)  
+🔹 Reach me: **amnapervez8910@gmail.com**
 
 ---
 
@@ -44,11 +53,19 @@
 
 | Project | Made with |
 |---------|-----------|
-| **SmartLIB** (Library System) | PHP, MySQL |
-| **Online Voting System** | Java, Swing, Oracle |
-| **Robot Navigation Puzzle** | Python, Tkinter, BFS/DFS |
+| **SmartLIB** | PHP, MySQL |
+| **AI Navigation** | Python, NLP, SpeechRecognition |
+| **Online Voting** | Java, Swing, Oracle |
+| **Robot Puzzle** | Python, Tkinter |
 
 👉 [View all →](https://github.com/amnapervez8910?tab=repositories)
+
+---
+
+### 🤖 AI Enthusiast
+
+
+> *"I love how AI can understand speech, recognize faces, and even talk back. Learning it feels like learning the future."*
 
 ---
 
@@ -78,5 +95,5 @@
 ---
 
 <p align="center">
-  <i>“Code. Create. Keep learning.”</i>
+  <i>“Code. Create. Learn AI. Repeat.”</i>
 </p>
