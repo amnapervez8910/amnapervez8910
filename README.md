@@ -1,23 +1,17 @@
 # 👋 Hi, I'm Amna Pervez
 
-🎓 **BS Computer Science** student at Fatima Jinnah Women University  
-💻 Passionate about **Web Development & Artificial Intelligence**  
+🎓 BS Computer Science student at Fatima Jinnah Women University  
+💻 Passionate about **Web Development** & **Artificial Intelligence**  
 🌱 Learning, building, and improving step by step  
 
 ---
 
 ## 🚀 About Me
 
-<details>
-<summary>✨ Click to expand</summary>
+I'm a Computer Science student who enjoys creating clean, functional, and user-friendly web applications.  
+I love turning ideas into real-world projects that solve problems.
 
-I'm a Computer Science student who enjoys building clean, useful, and real-world web applications.  
-I like turning ideas into working projects that solve problems.
-
-Currently exploring **AI/ML**, especially how systems understand data, language, and patterns.  
-Always learning, always improving.
-
-</details>
+Currently, I'm also exploring **AI/ML**, especially how machines understand data, language, and patterns.
 
 ---
 
@@ -45,54 +39,26 @@ Always learning, always improving.
 
 ## 🌱 Learning Journey
 
-<details>
-<summary>📌 Click to view my learning path</summary>
-
 - 🌱 Consistently improving my coding skills  
 - 💡 Building real-world projects step by step  
 - 🚀 Exploring Web Development & AI  
 - 🤝 Open to learning new technologies  
 
-</details>
-
 ---
 
 ## 📌 Projects
 
-💡 **What I’ve Built So Far**
-
-- 📚 **SmartLIB** – Library Management System (PHP, MySQL)  
-- 🔄 **Distributed & Parallel Pipeline ETL** – Data processing pipeline  
-- 🗣️ **AI Navigation System** – Voice-powered campus guide (Python, NLP)  
-- 🗳️ **Online Voting System** – Desktop application (Java, Swing, Oracle)  
+- 🏫 **SmartLIB** – Library Management System (PHP, MySQL)  
+- 🎙️ **AI Navigation System** – Voice-based campus guide (Python, NLP)  
+- 🗳️ **Online Voting System** – Java Swing Desktop App (Java, Oracle)  
 - 🤖 **Robot Puzzle Solver** – Pathfinding visualizer (Python, Tkinter)  
-- 🚦 **Traffic Light Controller** – FSM-based system (Verilog, ModelSim)  
-
-👉 **View all projects:**  
-https://github.com/amnapervez8910?tab=repositories
 
 ---
 
 ## 🔗 Connect With Me
 
-<p>
-  <a href="mailto:amnapervez8910@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/amnapervez8910">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/amna-pervez-1b2078389">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amnapervez8910@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/amnapervez8910)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amna-pervez-1b2078389)
 
 ---
-
-## ✨ Closing Note
-
-<p align="center">
-💡 “Small steps every day lead to big results.”  
-</p>
