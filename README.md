@@ -13,6 +13,8 @@ I like turning ideas into real-world projects that solve problems.
 
 At the same time, I'm curious about **AI/ML** and how machines learn from data, language, and patterns.
 
+🔗 My Portfolio: https://amnapervez8910.github.io/amna-pervez-portfolio/
+
 ---
 
 ## 🛠️ Tech Stack
