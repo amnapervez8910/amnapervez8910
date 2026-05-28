@@ -9,9 +9,9 @@
 ## 🚀 About Me
 
 I'm a CS student who enjoys creating clean, functional, and user-friendly web applications.  
-I love turning ideas into real-world projects that solve problems.
+I like turning ideas into real-world projects that solve problems.
 
-At the same time, I'm curious about **AI/ML** – how machines understand data, language, and patterns.
+At the same time, I'm curious about **AI/ML** and how machines learn from data, language, and patterns.
 
 ---
 
@@ -41,20 +41,25 @@ At the same time, I'm curious about **AI/ML** – how machines understand data, 
 
 ## 🌱 Currently Learning
 
-- ⚛️ **React.js** – making websites interactive
-- 🐳 **Docker** – understanding containers
-- ☁️ **Cloud (Azure)** – deploying things online
+| 🌿 | What I'm learning |
+|----|-------------------|
+| ⚛️ | React.js – building interactive web apps |
+| 🐳 | Docker – understanding containers |
+| ☁️ | Microsoft Azure – cloud deployment basics |
 
 ---
 
 ## 📌 Projects
 
-- 📚 **SmartLIB** – Library Management System (PHP, MySQL)
-- 🔄 **Distributed & Parallel ETL Pipeline** – Data processing pipeline
-- 🤖 **Robot Puzzle Solver** – Pathfinding visualizer (Python, Tkinter)
-- 🚦 **Traffic Light Controller** – FSM-based (Verilog, ModelSim)
+| 📁 | Project | Tech Stack |
+|----|---------|------------|
+| 📚 | SmartLIB – Library Management System | PHP, MySQL |
+| 🔄 | Distributed & Parallel ETL Pipeline | Data Processing |
+| 🤖 | Robot Puzzle Solver – Pathfinding Visualizer | Python, Tkinter |
+| 🌐 | Portfolio Website | HTML, CSS, JavaScript |
 
-👉 [More on GitHub →](https://github.com/amnapervez8910?tab=repositories)
+👉 More projects here:  
+https://github.com/amnapervez8910?tab=repositories
 
 ---
 
@@ -63,9 +68,3 @@ At the same time, I'm curious about **AI/ML** – how machines understand data, 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amnapervez8910@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/amnapervez8910)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amna-pervez-1b2078389)
-
----
-
-<p align="center">
-✨ Building one small step at a time 🌱 ✨
-</p>
